@@ -19,6 +19,7 @@ public class EnclosingClass {
 
    public static void main(String[] args) {
       EnclosingClass enclosingClass = new EnclosingClass();
+
       NestedClass nestedClass = enclosingClass.new NestedClass();
    }
 }
