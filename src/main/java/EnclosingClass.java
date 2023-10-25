@@ -1,5 +1,5 @@
 public class EnclosingClass {
-   static int countStatic =0;
+   static int countStatic =12;
    int countNonStatic = 0;
 
    public class NestedClass{
@@ -17,9 +17,5 @@ public class EnclosingClass {
         }
    }
 
-   public static void main(String[] args) {
-      EnclosingClass enclosingClass = new EnclosingClass();
 
-      NestedClass nestedClass = enclosingClass.new NestedClass();
-   }
 }
