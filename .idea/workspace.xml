@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e24a763c-a613-4a59-8466-16aebbfcd337" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Empregado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Gol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.Gol">
     <configuration name="EnclosingClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnclosingClass" />
       <module name="nested-classes" />
@@ -92,9 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gol" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Gol" />
         <item itemvalue="Application.TestEnclosingClass" />
         <item itemvalue="Application.EnclosingClass" />
       </list>
@@ -121,22 +119,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Gol.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Gol.java</url>
           <line>4</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Gol.java</url>
-          <line>6</line>
-          <properties method="run">
+          <line>3</line>
+          <properties class="Gol" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
